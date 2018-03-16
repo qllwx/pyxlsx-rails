@@ -1,0 +1,11 @@
+使用python 自动将.xlsx文件生成拼音字段的rails app
+环境需要
+python 
+sudo apt install python-pip
+pip install --upgrade pip
+
+pip install openpyxl
+pip install pypinyin
+
+用法：
+python mkapp.py
